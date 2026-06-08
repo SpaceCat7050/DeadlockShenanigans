@@ -1,7 +1,6 @@
 {
   "active_videos": [
-    "s2r://panorama/videos/video_one.vmvd",
-    "s2r://panorama/videos/video_two.vmvd",
-    "s2r://panorama/videos/video_three.vmvd"
+    "file://{resources}/videos/video_one.webm",
+    "file://{resources}/videos/video_two.webm"
   ]
 }
