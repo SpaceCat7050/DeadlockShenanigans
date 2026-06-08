@@ -1,0 +1,7 @@
+{
+  "active_videos": [
+    "s2r://panorama/videos/video_one.vmvd",
+    "s2r://panorama/videos/video_two.vmvd",
+    "s2r://panorama/videos/video_three.vmvd"
+  ]
+}
