@@ -1,6 +1,12 @@
 {
   "active_videos": [
-    "file://{resources}/videos/video_one.webm",
-    "file://{resources}/videos/video_two.webm"
+    {
+      "name": "video_one",
+      "path": "s2r://panorama/videos/video_one.webm"
+    },
+    {
+      "name": "video_two",
+      "path": "s2r://panorama/videos/video_two.webm"
+    }
   ]
 }
