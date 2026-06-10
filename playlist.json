@@ -1,12 +1,6 @@
 {
-  "active_videos": [
-    {
-      "name": "video_one",
-      "path": "s2r://panorama/videos/video_one.webm"
-    },
-    {
-      "name": "video_two",
-      "path": "s2r://panorama/videos/video_two.webm"
-    }
-  ]
+    "tracks": [
+        "custom_music.track1",
+        "custom_music.track2"
+    ]
 }
